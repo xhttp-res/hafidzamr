@@ -1,3 +1,6 @@
-# Hello Word 
+### hello world!
 
-# Test Special Repo from github
+
+:octocat: I'm Frontend Developer
+
+:indonesia: I'm From Indonesia
