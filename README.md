@@ -13,7 +13,7 @@ Stacks I have worked with : React, Vue(NuxtJS)
 
 ### ✨ Quick Facts
 
-- 💻 I’m currently working working as a Software Enginner - Frontend @ [Qoala Insurance Tech](https://www.linkedin.com/company/qoala/)
+- 💻 I’m currently working working as a Software Engineer - Frontend @ [Qoala Insurance Tech](https://www.linkedin.com/company/qoala/)
 - 🌱 I’m currently learning Vue (Nuxt), React, TypeScript and Unit-Testing
 - 🎿 Hobbies other than coding : Playing games
 - 📫 How to reach me: hafidzdev@gmail.com
