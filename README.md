@@ -22,6 +22,7 @@ Stacks I have worked with : React, Vue(NuxtJS)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js)
