@@ -2,7 +2,6 @@
 
 <br/>
 <br />
-<br/>
 
 <p>
 A Skilled Frontend JavaScript Developer 🚀 from Indonesia. Always working on some project or learning something new!
