@@ -12,7 +12,7 @@ Stacks I have worked with : React, Vue(NuxtJS)
 
 ### ✨ Quick Facts
 
-- 🌱 I’m currently learning Vue (Nuxt), React, TypeScript
+- 🌱 I’m currently learning React, TypeScript
 - 🎿 Hobbies other than coding : Playing games
 - 📫 How to reach me: hafidzdev@gmail.com
 
