@@ -26,7 +26,7 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 [![Linkedin Badge](https://img.shields.io/badge/-Hafidz_Amrulloh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hafidzamr/)
 <br/>
 <br/> 
-[![Instagram Badge](https://img.shields.io/badge/-@hafidzamr-white?style=flat-square&logo=instagram)](https://www.instagram.com/hafidzamr_/)
+[![Instagram Badge](https://img.shields.io/badge/-@xhttp.req-white?style=flat-square&logo=instagram)](https://www.instagram.com/xhttp.req/)
 
 
 ----------------------------------------------------------
